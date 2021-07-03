@@ -1,4 +1,4 @@
-# Diversified Portfolio Watchlist
+# [Diversified Portfolio Watchlist](https://github.com/cynthiac101/portfolio/blob/main/README.md)
 I have created this webpage following the module completion of **Fundamentals of Investing** where I learnt to leverage on fundamental and technical analysis for investing and the importance of building a diversified investment portfolio based on our risk appetite.
 
 ![Diversified Portfolio](image_portfolio.jpg)
