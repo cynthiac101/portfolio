@@ -1,5 +1,5 @@
 # [Diversified Portfolio Watchlist](https://github.com/cynthiac101/portfolio/blob/main/README.md)
-I created this webpage following the completion of **Fundamentals of Investing module** where I learnt to leverage on fundamental and technical analysis for investing, the importance of building a diversified investment portfolio based on our risk appetite and continuously reviewing it.
+I created this webpage following the completion of **Fundamentals of Investing module** where I learnt to leverage on fundamental and technical analysis for investing, the importance of building a diversified investment portfolio based on our risk appetite and the need to continuously review it.
 
 ![Diversified Portfolio](image_portfolio.jpg)
 
@@ -18,6 +18,6 @@ I created this webpage following the completion of **Fundamentals of Investing m
 ![Google Cloud Run Workflow](image_GCP.jpg)
 
 ---
-### Here is the stock watchlist based on my diversified investment portfolio with real-time market trading data via IEX API. The watchlist will be updated from time to time as I review and make changes to my investment portfolio.   
+### Here is the stock watchlist based on my diversified investment portfolio with real-time financial data via IEX API. The watchlist will be updated from time to time as I review and make changes to my investment portfolio.   
 
 Live endpoint available at URL: https://cloudrun-ejjumri6bq-uc.a.run.app
